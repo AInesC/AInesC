@@ -1,6 +1,6 @@
 <h1>Hello friends! 👋</h1>
 <p>My name is <strong >Alexandra</strong> and I'm self proclaimed nerd, foodie and avid knitter 🧶.</p>
-<p>I’m a budding 🌱 <strong>Front End Developer</strong>, currently learning JavaScript and JavaScript Frameworks, such as React ⚛️ and Angular.</p>
+<p>I’m a budding 🌱 <strong>Front End Developer</strong>, currently learning Javascript and Javascript Frameworks, such as React ⚛️ and Angular.</p>
 <p>My innate curiosity and unrelenting determination are the driving force of my speedy progress 🚀.</p>
 <h1>My (growing 🆙) Tech Stack</h1>
 <img srr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
