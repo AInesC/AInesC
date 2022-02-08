@@ -12,7 +12,7 @@
 </div>
 <h2>Find me here!</h2>
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/alexandra-cruz-027616217/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexandra-cruz-027616217/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aines@protonmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
 <!---
