@@ -1,6 +1,6 @@
 <h1>Hello friends! 👋</h1>
 <p>My name is <strong >Alexandra</strong> and I'm self proclaimed nerd, foodie and avid knitter 🧶.</p>
-<p>I’m a budding 🌱 <strong>Front End Developer</strong>, currently learning Javascript and Javascript Frameworks, such as React ⚛️ and Angular.</p>
+<p>I’m a junior <strong>Front End Developer</strong>, aiming to constantly improve myself to deliver better User Interfaces to the users and bring the designer's vision to life. I'm interested in web animations, immersive experiences and 3d.</p>
 <p>My innate curiosity and unrelenting determination are the driving force of my speedy progress 🚀.</p>
 <h2>My (growing 🆙) Tech Stack</h2>
 <div style="display: flex;">
